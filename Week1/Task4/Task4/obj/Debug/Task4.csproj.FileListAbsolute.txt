@@ -1,0 +1,7 @@
+C:\Users\Хрюшка\source\repos\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\Хрюшка\source\repos\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\Хрюшка\source\repos\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\Хрюшка\source\repos\Task4\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Хрюшка\source\repos\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Хрюшка\source\repos\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\Хрюшка\source\repos\Task4\Task4\obj\Debug\Task4.pdb

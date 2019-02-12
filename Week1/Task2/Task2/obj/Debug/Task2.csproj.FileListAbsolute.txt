@@ -1,0 +1,7 @@
+C:\Users\Хрюшка\source\repos\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Хрюшка\source\repos\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Хрюшка\source\repos\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Хрюшка\source\repos\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\Хрюшка\source\repos\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Хрюшка\source\repos\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Хрюшка\source\repos\Task2\Task2\obj\Debug\Task2.pdb
