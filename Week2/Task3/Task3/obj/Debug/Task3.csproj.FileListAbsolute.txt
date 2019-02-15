@@ -1,0 +1,7 @@
+C:\Users\Хрюшка\source\repos\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Хрюшка\source\repos\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Хрюшка\source\repos\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Хрюшка\source\repos\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Хрюшка\source\repos\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Хрюшка\source\repos\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Хрюшка\source\repos\Task3\Task3\obj\Debug\Task3.pdb
